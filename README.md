@@ -15,3 +15,8 @@ https://huggingface.co/lllyasviel/ControlNet/tree/main/models
 
 #### 图像处理：
 python nettest.py
+
+## Unity+Vuforia
+Unity:2021.2.16
+AR插件：Vuforia
+Library文件已经删除，打开项目之后会自行配置
